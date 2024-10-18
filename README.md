@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+[![](https://visitcount.itsvg.in/api?id=alejandrocs98&icon=0&color=5)](https://visitcount.itsvg.in)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alejandrocs98&theme=default) 
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alejandrocs98&theme=default) -->
+
 <!--
 **alejandrocs98/alejandrocs98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
